@@ -1,5 +1,5 @@
 # Readme
-This is Dr. Jim Junle Liu. I earned my Ph.D. degree from The Hong Kong University of Science and Technology (HKUST), and Bachelor's degree from Harbin Institute of Technology, Shenzhen Campus. 
+This is Dr. Jim Junle Liu. I earned my Ph.D. degree from The Hong Kong University of Science and Technology (HKUST) in Oct 2024, and Bachelor's degree from Harbin Institute of Technology, Shenzhen Campus (HITsz) in Jun 2020. 
 
 You can reach me via Email: jliueb@connect.ust.hk 
 
